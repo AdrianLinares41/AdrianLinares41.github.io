@@ -74,7 +74,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    ```
 4. Desde VSCode abre el archivo `hola.html` en tu navegador.
 5. Observa el resultado en la consola del navegador.
-[hola.html]./(00JSyEntorno/hola.html)
+[hola.html](./00JSyEntorno/hola.html)
 ## Parte 4: Experimenta
 
 - Cambia el valor de la variable `nombre` por el tuyo y recarga la página.
@@ -177,7 +177,7 @@ console.log("¡Hola, " + nombre + " " + apellido.toUpperCase() + "!");
    });
    ```
 6. Desde VSCode abre `formulario.html` en tu navegador y prueba el formulario.
-[formulario.html]./(00JSyEntorno/formulario.html)
+[formulario.html](./00JSyEntorno/formulario.html)
 
    
 ## Parte 6: Preguntas de reflexión
